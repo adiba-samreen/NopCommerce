@@ -1,0 +1,13 @@
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.exe
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.deps.json
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.runtimeconfig.json
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.runtimeconfig.dev.json
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.dll
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\bin\Debug\netcoreapp3.1\PracticeProblems.pdb
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.csprojAssemblyReference.cache
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.AssemblyInfoInputs.cache
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.AssemblyInfo.cs
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.csproj.CoreCompileInputs.cache
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.dll
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.pdb
+C:\Users\BL_NK\source\repos\PracticeProblems\PracticeProblems\obj\Debug\netcoreapp3.1\PracticeProblems.genruntimeconfig.cache
